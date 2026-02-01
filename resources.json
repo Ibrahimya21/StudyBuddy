@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "MDN JavaScript Guide",
+    "category": "JavaScript",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "description": "Official JavaScript documentation by MDN."
+  },
+  {
+    "id": 2,
+    "title": "CSS Flexbox Guide",
+    "category": "CSS",
+    "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "description": "Complete guide to Flexbox."
+  },
+  {
+    "id": 3,
+    "title": "HTML Semantic Elements",
+    "category": "HTML",
+    "link": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics",
+    "description": "Learn semantic HTML elements."
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Array Methods",
+    "category": "JavaScript",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "description": "All array methods explained."
+  },
+  {
+    "id": 5,
+    "title": "MDN JavaScript Guide",
+    "category": "JavaScript",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "description": "Official JavaScript documentation by MDN."
+  },
+  {
+    "id": 6,
+    "title": "CSS Flexbox Guide",
+    "category": "CSS",
+    "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "description": "Complete guide to Flexbox."
+  },
+  {
+    "id": 7,
+    "title": "HTML Semantic Elements",
+    "category": "HTML",
+    "link": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics",
+    "description": "Learn semantic HTML elements."
+  },
+  {
+    "id": 8,
+    "title": "JavaScript Array Methods",
+    "category": "JavaScript",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "description": "All array methods explained."
+  },
+  {
+    "id": 9,
+    "title": "MDN JavaScript Guide",
+    "category": "JavaScript",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "description": "Official JavaScript documentation by MDN."
+  },
+  {
+    "id": 10,
+    "title": "CSS Flexbox Guide",
+    "category": "CSS",
+    "link": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "description": "Complete guide to Flexbox."
+  }
+]
